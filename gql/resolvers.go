@@ -1,7 +1,7 @@
 package gql
 
 import (
-	"github.com/bradford-hamilton/go-graphql-api/postgres"
+	"github.com/douglaszuqueto/go-graphql-api/postgres"
 	"github.com/graphql-go/graphql"
 )
 
